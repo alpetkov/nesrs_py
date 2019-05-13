@@ -1,2 +1,2 @@
 # nesrs_py
-Python based NES emulator
+NES emulator written in Python
